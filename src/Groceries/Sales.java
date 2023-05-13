@@ -6,7 +6,7 @@ public class Sales {
 
     //20% off
 
-    ......
+   // ......
 
     //More sales added
 }
