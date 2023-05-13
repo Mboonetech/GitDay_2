@@ -9,4 +9,7 @@ public class Cart {
     //Meats
     //Trash bags
     //Eggs
+
+    //new deals
+    //Dropped glass jar
 }
